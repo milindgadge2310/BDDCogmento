@@ -29,4 +29,8 @@ public class ExcelReder extends BaseClass {
 	{
 		System.out.println("Alert handled Sucesssfully");
 	}
+	public static void handleConflict()
+	{
+		System.out.println("Conflict handled Sucesssfully");
+	}
 }
