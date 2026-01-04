@@ -25,8 +25,5 @@ public class ExcelReder extends BaseClass {
 	{
 		System.out.println("frame handle");
 	}
-	public static void handleWindow()
-	{
-		System.out.println("Window handle");
-	}
+
 }
