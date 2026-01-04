@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-29T13:43:58 IST" name="Suite" finished-at="2025-12-29T13:46:22 IST" duration-ms="143721">
+    <groups>
+    </groups>
+    <test started-at="2025-12-29T13:43:58 IST" name="Test" finished-at="2025-12-29T13:46:22 IST" duration-ms="143721">
+      <class name="TestLayer.HomePageTest">
+        <test-method signature="validateHomePageLogo()[pri:1, instance:TestLayer.HomePageTest@45099dd3]" started-at="2025-12-29T13:44:25 IST" name="validateHomePageLogo" finished-at="2025-12-29T13:44:29 IST" duration-ms="4672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageLogo -->
+        <test-method signature="validateHomePageTitle()[pri:2, instance:TestLayer.HomePageTest@45099dd3]" started-at="2025-12-29T13:44:29 IST" name="validateHomePageTitle" finished-at="2025-12-29T13:44:29 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageTitle -->
+        <test-method signature="validateHomePageUrl()[pri:3, instance:TestLayer.HomePageTest@45099dd3]" started-at="2025-12-29T13:44:29 IST" name="validateHomePageUrl" finished-at="2025-12-29T13:44:29 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageUrl -->
+      </class> <!-- TestLayer.HomePageTest -->
+      <class name="TestLayer.ContactPageTest">
+        <test-method signature="validateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.ContactPageTest@13e344d]" started-at="2025-12-29T13:44:31 IST" name="validateNewContact" data-provider="TestData" finished-at="2025-12-29T13:44:49 IST" duration-ms="17452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lname]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Status]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewContact -->
+        <test-method signature="validateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.ContactPageTest@13e344d]" started-at="2025-12-29T13:44:49 IST" name="validateNewContact" data-provider="TestData" finished-at="2025-12-29T13:45:07 IST" duration-ms="18454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Milind]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gadge]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[milind@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewContact -->
+        <test-method signature="validateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.ContactPageTest@13e344d]" started-at="2025-12-29T13:45:07 IST" name="validateNewContact" data-provider="TestData" finished-at="2025-12-29T13:45:26 IST" duration-ms="18585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aboli]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shinde]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Aboli@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewContact -->
+        <test-method signature="validateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.ContactPageTest@13e344d]" started-at="2025-12-29T13:45:26 IST" name="validateNewContact" data-provider="TestData" finished-at="2025-12-29T13:45:45 IST" duration-ms="19006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Padma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ghorpade]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Padma@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewContact -->
+        <test-method signature="validateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.ContactPageTest@13e344d]" started-at="2025-12-29T13:45:45 IST" name="validateNewContact" data-provider="TestData" finished-at="2025-12-29T13:46:04 IST" duration-ms="18777" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sujata]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[patil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sujata@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewContact -->
+        <test-method signature="validateNewContact(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestLayer.ContactPageTest@13e344d]" started-at="2025-12-29T13:46:04 IST" name="validateNewContact" data-provider="TestData" finished-at="2025-12-29T13:46:22 IST" duration-ms="18554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashwini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bachav]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ashwini @gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Inactive]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewContact -->
+      </class> <!-- TestLayer.ContactPageTest -->
+      <class name="TestLayer.LoginPageTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:TestLayer.LoginPageTest@1e0b4072]" started-at="2025-12-29T13:43:58 IST" name="setUP" finished-at="2025-12-29T13:44:23 IST" duration-ms="24364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validateLoginFunctionality()[pri:0, instance:TestLayer.LoginPageTest@1e0b4072]" started-at="2025-12-29T13:44:23 IST" name="validateLoginFunctionality" finished-at="2025-12-29T13:44:25 IST" duration-ms="1713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestLayer.LoginPageTest@1e0b4072]" started-at="2025-12-29T13:46:22 IST" name="tearDown" finished-at="2025-12-29T13:46:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestLayer.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
