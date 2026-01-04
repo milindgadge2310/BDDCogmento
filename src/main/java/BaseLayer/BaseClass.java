@@ -45,5 +45,9 @@ public class BaseClass {
 			driver.get(url);
 	}
 	
+	public static void Home()
+	{
+		System.out.println("I am aboli shinde");
+		}
 
 }
