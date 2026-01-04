@@ -25,6 +25,12 @@ public class ExcelReder extends BaseClass {
 	{
 		System.out.println("frame handle");
 	}
+	
+     
+	public static void handleFluentWait()
+	{
+		System.out.println("Fluent wait");
+	}
 
 	public static void handleAlert()
 	{
