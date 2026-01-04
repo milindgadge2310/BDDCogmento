@@ -40,5 +40,10 @@ public class ExcelReder extends BaseClass {
 	{
 		System.out.println("Conflict handled Sucesssfully");
 	}
+	
+	public static void loginPage()
+	{
+		System.out.println("login page successful crated");
+	}
 
 }
