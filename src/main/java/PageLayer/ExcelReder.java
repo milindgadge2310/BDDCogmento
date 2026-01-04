@@ -20,4 +20,9 @@ public class ExcelReder extends BaseClass {
 	{
 		System.out.println("DropDown Handled");
 	}
+	
+	public static void handleFrame()
+	{
+		System.out.println("frame handle");
+	}
 }
