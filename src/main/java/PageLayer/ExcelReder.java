@@ -15,4 +15,9 @@ public class ExcelReder extends BaseClass {
 	//XSSFWorkBook xssfwork=new XSSFWorkBook(fis);
 
 	}
+	
+	public static void handleDropDown()
+	{
+		System.out.println("DropDown Handled");
+	}
 }
