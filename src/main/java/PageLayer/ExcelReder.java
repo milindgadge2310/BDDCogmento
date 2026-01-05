@@ -45,5 +45,9 @@ public class ExcelReder extends BaseClass {
 	{
 		System.out.println("login page successful crated");
 	}
+	public static void homePage()
+	{
+		System.out.println("Home page successful added");
+	}
 
 }
